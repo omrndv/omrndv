@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Omar Nadiv</h1>
 <h3 align="center">Web Developer from Indonesia.</h3>
 
-- 🌱 I’m currently learning **React Native, Laravel, CodeIgniter**
+- 🌱 I’m currently learning **Laravel, CodeIgniter, React Native**
 
 - 💬 Ask me about **Website**
 
