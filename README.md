@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Muhammad Omar Nadiv
 
-### Computer Science Student • Web Developer 🇮🇩
+### Computer Science Student - Web Developer 🇮🇩
 
 Building modern web applications with Laravel, React, and TypeScript.
 
